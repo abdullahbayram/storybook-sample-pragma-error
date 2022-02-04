@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots MonoText default view 1`] = `
+<Text
+  style={
+    Array [
+      undefined,
+    ]
+  }
+  text="Sample Text Story"
+>
+  Sample Text Story
+</Text>
+`;
